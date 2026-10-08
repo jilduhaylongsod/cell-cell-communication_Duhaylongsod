@@ -21,7 +21,7 @@ How does IL6 signaling through IL6R help plasma cells survive and carry out thei
 | **Candidate Gene** | **IL6** |
 | **Protein Name** | Interleukin-6 (IL-6) |
 | **Expression Evidence** | Plasma cells can produce and secrete IL-6, a cytokine involved in immune signaling and regulation of immune responses. The Human Protein Atlas classifies IL-6 as a secreted protein with expression in immune-related cells and tissues, supporting its role as a signaling molecule released by plasma cells. |
-| **Source** | Human Protein Atlas. *IL6 (Interleukin-6) Gene*. Available at: https://www.proteinatlas.org/ENSG00000136244-IL6 |
+| **Source** | https://www.proteinatlas.org/ENSG00000136244-IL6 |
 
 ## Receptor and Receiver Cell with Supporting Evidence
 
@@ -32,8 +32,7 @@ How does IL6 signaling through IL6R help plasma cells survive and carry out thei
 | **Receiver Cell** | Neutrophil |
 | **Signaling Context** | Inflammatory immune response |
 | **Supporting Evidence** | IL-6 exerts its biological effects by binding to the IL6R receptor complex on target cells. Neutrophils express IL6R and respond to IL-6 signaling, which regulates immune activation, inflammation, and recruitment of immune cells during inflammatory responses. |
-| **Supporting Source (OmniPath)** | https://explore.omnipathdb.org/search?q=IL-6%2C&tab=intercell&species=9606
-https://explore.omnipathdb.org/search?q=IL6R%2C+&tab=interactions&species=9606 |
+| **Supporting Source (OmniPath)** | https://explore.omnipathdb.org/search?q=IL-6%2C&tab=intercell&species=9606 https://explore.omnipathdb.org/search?q=IL6R%2C+&tab=interactions&species=9606 |
 | **Supporting Source (Human Protein Atlas)** | https://www.proteinatlas.org/ENSG00000160712-IL6R |
 
 ## OmniPath Evidence

@@ -1,8 +1,9 @@
 # Cell-Cell-communication
 
-## Proposed IL6–IL6R Signaling in Immune Cell Communication 
+**Proposed IL6–IL6R Signaling in Immune Cell Communication**
 
-How does the interaction between IL6 and IL6R support plasma cell function?
+**Biological Question**
+How does IL6 signaling through IL6R help plasma cells survive and carry out their role in the immune response?
 
 ## Chosen sender cell and biological context
 

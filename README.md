@@ -7,8 +7,11 @@ How does IL6 signaling through IL6R help plasma cells survive and carry out thei
 
 ## Chosen sender cell and biological context
 
-
- | **Item** | **Answer** | |----------|------------| | **Sender cell** | Plasma cell | | **Biological context** | Immune signaling and cell-to-cell communication through the IL6–IL6R pathway | | **Main purpose** | May help regulate immune responses, inflammation, cell survival, and communication between immune and target cells |
+| **Item** | **Answer** |
+|----------|------------|
+| **Sender cell** | Plasma cell |
+| **Biological context** | Immune signaling and cell-to-cell communication through the IL6–IL6R pathway |
+| **Main purpose** | May help regulate immune responses, inflammation, cell survival, and communication between immune and target cells |
 
 ## Candidate Ligand and Evidence for Sender-Cell Expression
 
@@ -29,7 +32,8 @@ How does IL6 signaling through IL6R help plasma cells survive and carry out thei
 | **Receiver Cell** | Neutrophil |
 | **Signaling Context** | Inflammatory immune response |
 | **Supporting Evidence** | IL-6 exerts its biological effects by binding to the IL6R receptor complex on target cells. Neutrophils express IL6R and respond to IL-6 signaling, which regulates immune activation, inflammation, and recruitment of immune cells during inflammatory responses. |
-| **Supporting Source (OmniPath)** | https://explore.omnipathdb.org/search?q=IL-6%2C&tab=intercell&species=9606 |
+| **Supporting Source (OmniPath)** | https://explore.omnipathdb.org/search?q=IL-6%2C&tab=intercell&species=9606
+https://explore.omnipathdb.org/search?q=IL6R%2C+&tab=interactions&species=9606 |
 | **Supporting Source (Human Protein Atlas)** | https://www.proteinatlas.org/ENSG00000160712-IL6R |
 
 ## OmniPath Evidence
